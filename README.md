@@ -9,7 +9,7 @@ My name is Luis Diaz-Restrepo and i am looking to collaborate in or be part of a
 
 On my way to being a web developer I have learned:
 
-######💻Technologies:
+###### 💻Technologies:
                 
 + DataBase
 	✔ ProstgreSQL
@@ -27,23 +27,26 @@ On my way to being a web developer I have learned:
     ✔ Redux
 
 + Other
-    ✔ Git
-	✔ WSL
+* ✔ Git
+* ✔ WSL
 
 ###### 📌 Technologies and Methodologies to learn soon
 
-    CSS:    ✔ BEM    ✔ Tailwind    
-    JavaScrip:    ✔ Typescript
++ CSS:
+✔ BEM
+✔ Tailwind
+  
++JavaScrip:
+✔ Typescript
 
 ###### 🌱 my next three study goals are:
-        - software development.
-        - web and mobile applications.
-        - data science.
-
-## 📫 LinkedIn: https://www.linkedin.com/in/luis-diazr/
+* Software development.
+* Mobile applications.
+* Data science.
 
 ## 👨‍🎓 Platform courses:
-    -> 💚 Platzi: https://platzi.com/p/luisdr/
-    -> 💛 HENRY - Full Stack Developer - PERN
+* 💚 Platzi: https://platzi.com/p/luisdr/
+* 💛 HENRY - Full Stack Developer - PERN
 
+## 📫 LinkedIn: https://www.linkedin.com/in/luis-diazr/
 ## website    https://ludirez.github.io/

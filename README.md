@@ -39,10 +39,11 @@ Here are some ideas to get you started:-->
 
 - 🤝 I am looking to collaborate in or be part of a project that develops solutions based on software
 
-- 📫 LinkedIn: https://www.linkedin.com/in/luisdiaz-restrepo/
+- 📫 LinkedIn: https://www.linkedin.com/in/luis-diazr/
 
-- 👨‍🎓 self-taught platform courses:
+- 👨‍🎓 Platform courses:
     💚Platzi: https://platzi.com/p/luisdr/
+    💛 HENRY - Full Stack Developer - PERN
 
 - website under construction
 ## https://ludirez.github.io/

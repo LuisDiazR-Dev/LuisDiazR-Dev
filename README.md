@@ -1,49 +1,49 @@
-### Hi there 👋
-
-My name is Luis Diaz-Restrepo and I am training in web development. Here I will develop my cover letter.
-
 <!--
 **ludirez/ludirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
-- 🔭 I am currently studying to be a full stack Developer with JavaScript.
+### Hi there 👋
 
-- 💻technologies that I use:
-    ✔ HTML5
-    ✔ CSS3
-    ✔ Bootstrap
-    ✔ JavaScript
-    ✔ Git and Github
-    ✔ Windows Subsystem for Linux
-    ✔ VScode
+My name is Luis Diaz-Restrepo and i am looking to collaborate in or be part of a project that develops solutions based on software
 
-- 📌 Technologies and Methodologies to learn soon
+On my way to being a web developer I have learned:
 
-    CSS:
-        ✔ BEM
-        ✔ Tailwind
-    
-    JavaScrip:
-        ✔ React.js
-        ✔ Typescript
-        ✔ Node.js
-    
-    Database
+######💻Technologies:
+                
++ DataBase
+	✔ ProstgreSQL
+	✔ Sequelize
 
++ Backend
+    ✔ node.js - npm
+	✔ Web Server
+    ✔ Express.js
+	✔ Testing
 
-- 🌱 I am currently learning web development and my next three study goals are:
++ Frontend
+    ✔ HTML | CSS | Js
+    ✔ React.js
+    ✔ Redux
+
++ Other
+    ✔ Git
+	✔ WSL
+
+###### 📌 Technologies and Methodologies to learn soon
+
+    CSS:    ✔ BEM    ✔ Tailwind    
+    JavaScrip:    ✔ Typescript
+
+###### 🌱 my next three study goals are:
         - software development.
         - web and mobile applications.
         - data science.
 
-- 🤝 I am looking to collaborate in or be part of a project that develops solutions based on software
+## 📫 LinkedIn: https://www.linkedin.com/in/luis-diazr/
 
-- 📫 LinkedIn: https://www.linkedin.com/in/luis-diazr/
+## 👨‍🎓 Platform courses:
+    -> 💚 Platzi: https://platzi.com/p/luisdr/
+    -> 💛 HENRY - Full Stack Developer - PERN
 
-- 👨‍🎓 Platform courses:
-    💚Platzi: https://platzi.com/p/luisdr/
-    💛 HENRY - Full Stack Developer - PERN
-
-- website under construction
-## https://ludirez.github.io/
+## website    https://ludirez.github.io/

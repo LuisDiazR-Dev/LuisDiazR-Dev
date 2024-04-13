@@ -45,8 +45,8 @@ On my way to being a web developer I have learned:
 * Data science.
 
 ## 👨‍🎓 Platform courses:
-* 💚 Platzi: https://platzi.com/p/luisdr/
 * 💛 HENRY - Full Stack Developer - PERN
+* 💚 Platzi: https://platzi.com/p/luisdr/
 
 ## 📫 LinkedIn: https://www.linkedin.com/in/luis-diazr/
-## website    https://ludirez.github.io/
+## website    https://luisdiazr-dev.github.io/

@@ -1,52 +1,53 @@
-<!--
-**ludirez/ludirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there! I'm Luis Diaz-Restrepo
 
-Here are some ideas to get you started:-->
+I'm a Full Stack Web Developer passionate about creating user-focused, responsive, and scalable web applications.
 
-### Hi there 👋
+💡 I enjoy building modern interfaces using **React** and **Redux Toolkit**, while connecting them to robust backends built with **Node.js**, **Express**, and **PostgreSQL**. My journey started with WordPress and WooCommerce, and now I'm focused on building software solutions with solid fundamentals and great user experiences.
 
-My name is Luis Diaz-Restrepo and i am looking to collaborate in or be part of a project that develops solutions based on software
+---
 
-On my way to being a web developer I have learned:
+## 🧠 Tech Stack
 
-###### 💻Technologies:
-                
-+ DataBase
-	✔ ProstgreSQL
-	✔ Sequelize
+**Frontend**  
+⚛ React · Redux Toolkit · HTML · CSS · JavaScript · Tailwind CSS · Styled Components
 
-+ Backend
-    ✔ node.js - npm
-	✔ Web Server
-    ✔ Express.js
-	✔ Testing
+**Backend**  
+🟢 Node.js · Express · PostgreSQL · Sequelize
 
-+ Frontend
-    ✔ HTML | CSS | Js
-    ✔ React.js
-    ✔ Redux
+**Others**  
+🔧 Git · GitHub · Vercel · Railway · WSL · SCRUM
 
-+ Other
-* ✔ Git
-* ✔ WSL
+---
 
-###### 📌 Technologies and Methodologies to learn soon
+## 🚀 Currently Learning
 
-+ CSS:
-✔ BEM
-✔ Tailwind
-  
-+JavaScrip:
-✔ Typescript
+- ⚙️ TypeScript & Clean Code
+- 🧱 BEM & Utility-first CSS (Tailwind)
+- 🧪 Automated Testing & Software Architecture
 
-###### 🌱 my next three study goals are:
-* Software development.
-* Mobile applications.
-* Data science.
+---
 
-## 👨‍🎓 Platform courses:
-* 💛 HENRY - Full Stack Developer - PERN
-* 💚 Platzi: https://platzi.com/p/luisdr/
+## 🎯 Next Goals
 
-## 📫 LinkedIn: https://www.linkedin.com/in/luis-diazr/
-## website    https://luisdiazr-dev.github.io/
+- 📱 Mobile App Development
+- 📊 Data Science fundamentals
+- 🧩 Contributing to open source or team projects
+
+---
+
+## 🎓 Education
+
+- 💛 Full Stack Developer Bootcamp - Henry (PERN Stack)
+- 💚 Ongoing courses on [Platzi](https://platzi.com/p/luisdr/)
+
+---
+
+## 🌐 Find me at
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/luis-diazr/)
+- 🌍 [Portfolio Website](https://luisdiazr-dev.github.io/)
+- 📬 [Email](mailto:diazr.info@gmail.com)
+
+---
+
+📌 *Always open to collaborate on meaningful tech projects or join teams building real impact with code.*
